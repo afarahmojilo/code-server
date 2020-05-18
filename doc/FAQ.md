@@ -198,7 +198,7 @@ information from the following places:
 Additionally, collecting core dumps (you may need to enable them first) if
 code-server crashes can be helpful.
 
-## Heartbeat file
+## Heartbeat File
 
 `code-server` touches `~/.local/share/code-server/heartbeat` once a minute as long
 as there is an active browser connection.
